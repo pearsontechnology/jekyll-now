@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Pearson Technology Blog
+name: Cloud Platform Technology Blog
 
 # Short bio or description (displayed in the header)
 description: The technology team at Pearson who are scaling containers and cloud for a new digital education platform.
@@ -72,7 +72,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
