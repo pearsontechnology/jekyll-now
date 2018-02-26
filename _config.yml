@@ -6,7 +6,7 @@
 name: Cloud Platform Technology Blog
 
 # Short bio or description (displayed in the header)
-description: The technology team at Pearson who are scaling containers and cloud for a new digital education platform.
+description: The Cloud Platforms  team at Pearson who are responsible for establishing the DevOps principles and SRE models for scaling the containerised microservice architecture for our new digital education platform. We work in the open and all of our projects authorised for public release can be found on GitHub. In this blog we share our thoughts, good and bad on running containerised services at global scale. 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/pearsontechnology/pearsontechnology.github.io/master/images/PearsonLogo_Primary_Blk_RGB.png
