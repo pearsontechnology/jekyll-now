@@ -4,7 +4,7 @@
 //
 
 // Colors
-$blue: #4183C4;
+$blue: ##007a9c;
 
 // Grays
 $black: #000;
@@ -15,9 +15,9 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
+$helvetica: "Open Sans", Helvetica, Verdana ,sans-serif;
+$helveticaNeue: "Open Sans", Helvetica, Verdana ,sans-serif;
+$georgia: "Open Sans", Helvetica, Verdana ,sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {
