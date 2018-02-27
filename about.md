@@ -16,7 +16,7 @@ We can often be found attending meetups and conferences all over the world. If y
 
 ### Open Roles
 
-We are often looking for new talent to join the team at Pearson, if you are interested in working for us then please visit our [careers page](http://pearson-technology.jobs/). 
+We are often looking for new talent to join the team at Pearson, if you are interested in working for us then please visit our <a href="http://pearson-technology.jobs/" target="_blank">careers page</a>. 
 
 Please note if you work in recruitment and are not on Pearson's preferred supplier list we are unable to engage in conversations regarding potential candidates or partnerships. Our team has no sway on the selection of companies to our authorised list and anyone looking for a new business introduction to Pearson should contact our recruitment teams directly. Thanks in advance for your understanding!
 
