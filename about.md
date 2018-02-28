@@ -12,7 +12,7 @@ As part of our community strategy, we release our learnings both in the form of 
 
 ### Conferences & Case Studies
 
-We can often be found attending meetups and conferences all over the world. If you are interested in having us attend or speak at one of your events, please [email us](mailto:chris.jackson@pearson.com). We do not provide endorsements for commercial software and services but we are happy to show support for communities we work with. Please refer to our examples for [Stackstorm](https://stackstorm.com/case-study-pearson/) and [Kubernetes](https://kubernetes.io/case-studies/pearson/) to get a feel for how we like to work with community partners.
+We can often be found attending meetups and conferences all over the world. If you are interested in having us attend or speak at one of your events, please [email us](mailto:oss-enquiries@pearson.com). We do not provide endorsements for commercial software and services but we are happy to show support for communities we work with. Please refer to our examples for [Stackstorm](https://stackstorm.com/case-study-pearson/) and [Kubernetes](https://kubernetes.io/case-studies/pearson/) to get a feel for how we like to work with community partners.
 
 ### Open Roles
 
@@ -28,4 +28,4 @@ For full terms and conditions of use for any Pearson website including this one,
 
 ### Contact
 
-To get in touch with us, follow us on [Twitter](https://twitter.com/pearsontechops)
+To get in touch with us, follow us on [Twitter](https://twitter.com/pearsontechops) or email us [oss-enquiries@pearson.com](mailto:oss-enquiries@pearson.com).
